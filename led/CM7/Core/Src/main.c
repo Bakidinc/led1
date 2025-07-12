@@ -32,6 +32,7 @@
 //22.14 degisiklik yapıldı
 //22.15
 //22.16
+//gitmeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeden şunudan yazayım
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
