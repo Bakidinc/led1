@@ -30,6 +30,7 @@
 //degisiklik yapıldiii
 //sdasdasd
 //22.14 degisiklik yapıldı
+//22.15
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
