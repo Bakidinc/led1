@@ -26,6 +26,9 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 //degisiklik yapıldiii
+//degisiklik yapıldiii
+//degisiklik yapıldiii
+//sdasdasd
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
